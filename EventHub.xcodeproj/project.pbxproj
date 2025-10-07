@@ -7,19 +7,19 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		3F0620AA2E8DC2CE00501D65 /* TravelJournal.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TravelJournal.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		3F81C5AB2E905FFA000B2751 /* EventHub.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EventHub.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		3F0620AC2E8DC2CE00501D65 /* TravelJournal */ = {
+		3F81C5AD2E905FFA000B2751 /* EventHub */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = TravelJournal;
+			path = EventHub;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		3F0620A72E8DC2CE00501D65 /* Frameworks */ = {
+		3F81C5A82E905FFA000B2751 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -29,18 +29,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		3F0620A12E8DC2CE00501D65 = {
+		3F81C5A22E905FFA000B2751 = {
 			isa = PBXGroup;
 			children = (
-				3F0620AC2E8DC2CE00501D65 /* TravelJournal */,
-				3F0620AB2E8DC2CE00501D65 /* Products */,
+				3F81C5AD2E905FFA000B2751 /* EventHub */,
+				3F81C5AC2E905FFA000B2751 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		3F0620AB2E8DC2CE00501D65 /* Products */ = {
+		3F81C5AC2E905FFA000B2751 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				3F0620AA2E8DC2CE00501D65 /* TravelJournal.app */,
+				3F81C5AB2E905FFA000B2751 /* EventHub.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,64 +48,64 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		3F0620A92E8DC2CE00501D65 /* TravelJournal */ = {
+		3F81C5AA2E905FFA000B2751 /* EventHub */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 3F0620B52E8DC2D000501D65 /* Build configuration list for PBXNativeTarget "TravelJournal" */;
+			buildConfigurationList = 3F81C5B62E905FFF000B2751 /* Build configuration list for PBXNativeTarget "EventHub" */;
 			buildPhases = (
-				3F0620A62E8DC2CE00501D65 /* Sources */,
-				3F0620A72E8DC2CE00501D65 /* Frameworks */,
-				3F0620A82E8DC2CE00501D65 /* Resources */,
+				3F81C5A72E905FFA000B2751 /* Sources */,
+				3F81C5A82E905FFA000B2751 /* Frameworks */,
+				3F81C5A92E905FFA000B2751 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				3F0620AC2E8DC2CE00501D65 /* TravelJournal */,
+				3F81C5AD2E905FFA000B2751 /* EventHub */,
 			);
-			name = TravelJournal;
+			name = EventHub;
 			packageProductDependencies = (
 			);
-			productName = TravelJournal;
-			productReference = 3F0620AA2E8DC2CE00501D65 /* TravelJournal.app */;
+			productName = EventHub;
+			productReference = 3F81C5AB2E905FFA000B2751 /* EventHub.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		3F0620A22E8DC2CE00501D65 /* Project object */ = {
+		3F81C5A32E905FFA000B2751 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 2600;
 				LastUpgradeCheck = 2600;
 				TargetAttributes = {
-					3F0620A92E8DC2CE00501D65 = {
+					3F81C5AA2E905FFA000B2751 = {
 						CreatedOnToolsVersion = 26.0.1;
 					};
 				};
 			};
-			buildConfigurationList = 3F0620A52E8DC2CE00501D65 /* Build configuration list for PBXProject "TravelJournal" */;
+			buildConfigurationList = 3F81C5A62E905FFA000B2751 /* Build configuration list for PBXProject "EventHub" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = 3F0620A12E8DC2CE00501D65;
+			mainGroup = 3F81C5A22E905FFA000B2751;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 3F0620AB2E8DC2CE00501D65 /* Products */;
+			productRefGroup = 3F81C5AC2E905FFA000B2751 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				3F0620A92E8DC2CE00501D65 /* TravelJournal */,
+				3F81C5AA2E905FFA000B2751 /* EventHub */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		3F0620A82E8DC2CE00501D65 /* Resources */ = {
+		3F81C5A92E905FFA000B2751 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -115,7 +115,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		3F0620A62E8DC2CE00501D65 /* Sources */ = {
+		3F81C5A72E905FFA000B2751 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -125,7 +125,7 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		3F0620B32E8DC2D000501D65 /* Debug */ = {
+		3F81C5B42E905FFF000B2751 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -188,7 +188,7 @@
 			};
 			name = Debug;
 		};
-		3F0620B42E8DC2D000501D65 /* Release */ = {
+		3F81C5B52E905FFF000B2751 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -244,7 +244,7 @@
 			};
 			name = Release;
 		};
-		3F0620B62E8DC2D000501D65 /* Debug */ = {
+		3F81C5B72E905FFF000B2751 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -263,7 +263,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.conestoga.TravelJournal;
+				PRODUCT_BUNDLE_IDENTIFIER = com.conestogac.EventHub;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
@@ -275,7 +275,7 @@
 			};
 			name = Debug;
 		};
-		3F0620B72E8DC2D000501D65 /* Release */ = {
+		3F81C5B82E905FFF000B2751 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -294,7 +294,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.conestoga.TravelJournal;
+				PRODUCT_BUNDLE_IDENTIFIER = com.conestogac.EventHub;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
@@ -309,25 +309,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		3F0620A52E8DC2CE00501D65 /* Build configuration list for PBXProject "TravelJournal" */ = {
+		3F81C5A62E905FFA000B2751 /* Build configuration list for PBXProject "EventHub" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				3F0620B32E8DC2D000501D65 /* Debug */,
-				3F0620B42E8DC2D000501D65 /* Release */,
+				3F81C5B42E905FFF000B2751 /* Debug */,
+				3F81C5B52E905FFF000B2751 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		3F0620B52E8DC2D000501D65 /* Build configuration list for PBXNativeTarget "TravelJournal" */ = {
+		3F81C5B62E905FFF000B2751 /* Build configuration list for PBXNativeTarget "EventHub" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				3F0620B62E8DC2D000501D65 /* Debug */,
-				3F0620B72E8DC2D000501D65 /* Release */,
+				3F81C5B72E905FFF000B2751 /* Debug */,
+				3F81C5B82E905FFF000B2751 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 3F0620A22E8DC2CE00501D65 /* Project object */;
+	rootObject = 3F81C5A32E905FFA000B2751 /* Project object */;
 }
